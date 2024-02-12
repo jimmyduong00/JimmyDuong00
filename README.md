@@ -6,15 +6,15 @@
 
 - <b>[Azure Sentinel Attack Map](https://github.com/JimmyDuong00/Azure-Sentinel-Threat-Map)</b>
 - <b>S3 Bucket Static Site (https://ottertech.cloud)</b>
-- <b>Simulated Azure Directory</b>
+- <b>Simulated Azure </b>
 
 
 <h2>Certifications</h2>
   -CompTIA: A+, Network+, Security+, Cloud+ <br/>
   -Amazon Web Services: SysOps, Solutions Architect Associate<br/> 
-  -Azure: AZ-104 Azure Administrator, SC-900 Identity <br/>
+  -Microsoft Azure: SC-900 Microsoft Security, Compliance, and Identity Fundamentals, AZ-104 Azure Administrator  <br/>
   -LPI: Linux Foundations<br/>
-  -Certified Ethical Hacker<br/>
+  -EC-Council: Certified Ethical Hacker<br/>
   
 
 
