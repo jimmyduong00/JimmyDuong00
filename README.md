@@ -5,16 +5,16 @@
 <h2>👨‍💻 Cloud Based Projects:</h2>
 
 - <b>[Azure Sentinel Attack Map](https://github.com/JimmyDuong00/Azure-Sentinel-Threat-Map)</b>
-- <b>S3 Bucket Static Site (https://ottertech.cloud)</b>
+- <b>[S3 Bucket Static Site](https://ottertech.cloud)</b>
 - <b>Active Directory</b>
 
 
 <h2>Certifications</h2>
   -CompTIA: A+, Network+, Security+, Cloud+ <br/>
-  -Amazon Web Services: SysOps, Solutions Architect Associate<br/> 
-  -Microsoft Azure: SC-900, AZ-104, AZ500 (In Progress)  <br/>
-  -LPI: Linux Foundations<br/>
-  -EC-Council: Certified Ethical Hacker<br/>
+  -Amazon Web Services: Cloud Practitioner, SysOps Associate, Solutions Architect Associate <br/> 
+  -Microsoft Azure: SC-900, AZ-104, AZ500 (In Progress) <br/>
+  -LPI: 010 Linux Essentials <br/>
+  -EC-Council: Certified Ethical Hacker <br/>
   
 
 
