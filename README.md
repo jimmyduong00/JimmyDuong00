@@ -5,8 +5,8 @@
 <h2>👨‍💻 Cloud Based Projects:</h2>
 
 - <b>[Azure Sentinel Attack Map](https://github.com/JimmyDuong00/Azure-Sentinel-Threat-Map)</b>
-- <b>[S3 Bucket Static Site](https://ottertech.cloud)</b>
-- <b>Active Directory</b>
+- <b>[Azure Web App Site](https://ottertech.cloud)</b>
+- <b></b>
 
 
 <h2>Certifications</h2>
