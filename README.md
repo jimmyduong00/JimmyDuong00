@@ -5,19 +5,19 @@
   
   <br>Here are some projects I have or plan to work on (will have link when completed):<br>
   ⛅ Cloud Infrastructure Projects:<br>
-  - 🌎 Hosting a website using Azure Static Web App Site<br>
+  - <b>[🌎 Hosting a website using Azure Static Web App and Quartz](https://ottertech.cloud/1-Projects/Creating-a-Static-Website-using-Azure)</b>
   - 🔨 Using Terraform to automate scaling web-facing applications<br>
-  - 🐳 Container orchestration using Docker and Kubernetes<br><br>
+  - 🐳 Container orchestration using Docker and Kubernetes<br>
   
   🔒 Cybersecurity Projects<br>
   - 🔎 Detection, investigation, and response using Splunk <br>
-  <b>[🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel](https://github.com/JimmyDuong00/Sentinel-Threat-Map)</b>
+  - <b>[🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel](https://github.com/JimmyDuong00/Sentinel-Threat-Map)</b>
   - 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>
   - 📃 Configuring IAM access for multi-cloud organizations using AWS IAM and EntraID<br>
-  - 🕷 Web scraping for OSINT data<br><br>
+  - 🕷 Web scraping for OSINT data<br>
   
   💾 General Projects<br>
-  <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
+  - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
   - 💿 Creating RAID server to store data using Syncthing</p>
 
 ###
