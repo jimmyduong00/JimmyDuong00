@@ -11,7 +11,7 @@
   
   🔒 Cybersecurity Projects<br><br>
   - 🔎 Detection, investigation, and response using Splunk <br>
-  <a href="[url](https://github.com/JimmyDuong00/Sentinel-Threat-Map)">  - 🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel<br></a>
+  <a href="[url](https://github.com/JimmyDuong00/Sentinel-Threat-Map)">- 🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel</a><br>
   - 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>
   - 📃 Configuring IAM access for multi-cloud organizations using AWS IAM and EntraID<br>
   - 🕷 Web scraping for OSINT data<br><br>
