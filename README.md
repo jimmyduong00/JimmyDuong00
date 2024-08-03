@@ -1,4 +1,24 @@
-<p align="left">Hi, I'm Jimmy<br><br>I'm a ☁️ Cloud and 🔒 Cyber Security Engineer.<br><br>I love creating infrastructure solutions according to best practices and making cyberspace a more safe and secure experience.<br>  <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge I have learned so feel free to check out my website https://ottertech.cloud/<br><br>Here are some projects I am or plan to work on (will have link when completed):<br><br>⛅ Cloud Infrastructure Projects:<br><br>- 🌎 Hosting a website using Azure Static Web App Site<br>- 🔨 Using Terraform to automate scaling web-facing applications<br>- 🐳 Container orchestration using Docker and Kubernetes<br><br>🔒 Cybersecurity Projects<br><br>- 🔎 Detection, investigation, and response using Splunk <br>- 🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel<br>- 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>- 📃 Configuring IAM access for multi-cloud organizations using AWS IAM and EntraID<br>- 🕷 Web scraping for OSINT data<br><br>💾 General Projects<br><br>- 📸 Auto-triggering AWS Lambda bucket for image blurring<br>- 💿 Creating RAID server to store data using Syncthing</p>
+<p align="left">Hi, I'm Jimmy<br>
+  <br>I'm a ☁️ Cloud and 🔒 Cyber Security Engineer.<br>
+  <br>I love creating infrastructure solutions according to best practices and making cyberspace a more safe and secure experience.<br>  
+  <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge I have learned so feel free to check out my website https://ottertech.cloud/<br>
+  
+  <br>Here are some projects I have or plan to work on (will have link when completed):<br><br>
+  ⛅ Cloud Infrastructure Projects:<br><br>
+  - 🌎 Hosting a website using Azure Static Web App Site<br>
+  - 🔨 Using Terraform to automate scaling web-facing applications<br>
+  - 🐳 Container orchestration using Docker and Kubernetes<br><br>
+  
+  🔒 Cybersecurity Projects<br><br>
+  - 🔎 Detection, investigation, and response using Splunk <br>
+  <a href="[url](https://github.com/JimmyDuong00/Sentinel-Threat-Map)">  - 🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel<br></a>
+  - 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>
+  - 📃 Configuring IAM access for multi-cloud organizations using AWS IAM and EntraID<br>
+  - 🕷 Web scraping for OSINT data<br><br>
+  
+  💾 General Projects<br><br>
+  - 📸 Auto-triggering AWS Lambda bucket for image blurring<br>
+  - 💿 Creating RAID server to store data using Syncthing</p>
 
 ###
 
