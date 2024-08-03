@@ -29,3 +29,6 @@ I have a proven track record and history of phenomenal performance in the field 
 <h2> 🤳 Connect with me:</h2>
 
 https://linkedin.com/in/jduong00
+
+ <img src="[https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://tenor.com/view/luna-cat-shaking-head-gif-13593506101986476598)
+"/>
