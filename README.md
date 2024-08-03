@@ -4,7 +4,7 @@
   
 <h2>👨‍💻 Cloud Based Projects:</h2>
 
-- <b>[Azure Sentinel Attack Map](https://github.com/JimmyDuong00/Azure-Sentinel-Threat-Map)</b>
+- <b>[Azure Sentinel Threat Map](https://github.com/JimmyDuong00/Azure-Sentinel-Threat-Map)</b>
 - <b>[Azure Static Web App Site](https://ottertech.cloud)</b>
 - <b></b>
 
@@ -30,5 +30,3 @@ I have a proven track record and history of phenomenal performance in the field 
 
 https://linkedin.com/in/jduong00
 
- <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
