@@ -6,19 +6,24 @@
   <br>Here are some projects I have or plan to work on (will have link when completed):<br>
   ⛅ Cloud Infrastructure Projects:<br>
   - <b>[🌎 Hosting a website using Azure Static Web App and Quartz](https://ottertech.cloud/1-Projects/Creating-a-Static-Website-using-Azure)</b>
-  - 🔨 Using Terraform to automate scaling web-facing applications<br>
+  - 🔨 Using Terraform to automate load balanced elastic web-facing applications<br>
   - 🐳 Container orchestration using Docker and Kubernetes<br>
+  - 💻 Endpoint imaging and management using Azure Intune and Autopilot<br>
   
   🔒 Cybersecurity Projects<br>
-  - 🔎 Detection, investigation, and response using Splunk <br>
   - <b>[🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel](https://github.com/JimmyDuong00/Sentinel-Threat-Map)</b>
+  - 📃 Configuring IAM access for hybrid organizations using Entra Connect<br>
+  - <b>[⌛ Configuring Privliged Identity Management (PIM) access for critical infrastructure](https://ottertech.cloud/2-Azure-Services/Privileged-Identity-Management-(PIM))</b>
+  - 🔎 Detection, investigation, and response using Splunk <br>
   - 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>
-  - 📃 Configuring IAM access for multi-cloud organizations using AWS IAM and EntraID<br>
-  - 🕷 Web scraping for OSINT data<br>
+  - 🎥 Building a vulerable camera map using Shodan<br>
+  - 🕷  Web scraping for OSINT data on X (Twitter) and Mastodon<br>
   
-  💾 General Projects<br>
+  🛠️ General Projects<br>
   - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
-  - 💿 Creating RAID server to store data using Syncthing</p>
+  - 💿 Creating a RAID enabled server to store and sync multiple local endpoints using Syncthing</p>
+  - 💾 Creating an image and restoring backups using Paragon Hard Disk Manager<br>
+  
 
 ###
 
