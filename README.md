@@ -21,7 +21,7 @@ Here are some projects I have or plan to work on (will have link when completed)
     
   🔒 Cybersecurity Projects<br>
   - 🔎 Detection, investigation, and response using Splunk <br>
-  - 🔎 Vulnerability management and remediation using OSSIM AlienVault and Nmap<br>
+  - 🏹 Vulnerability management and remediation using OSSIM AlienVault, GreenBone OpenVAS and Nmap<br>
   - 🎥 Using Shodan to find and map unsecured CCTV cameras<br>
   - 🕷  Web scraping for OSINT data on X (Twitter) and Mastodon<br>
   
