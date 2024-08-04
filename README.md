@@ -4,6 +4,7 @@
   <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge I have learned so feel free to check out my website https://ottertech.cloud/<br>
   
 Here are some projects I have or plan to work on (will have link when completed):<br>
+
   <p1> ⛅ Cloud Projects<br> </p1>
   
   Azure:
