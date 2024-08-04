@@ -24,8 +24,6 @@
   - 💿 Creating a RAID enabled server to store and sync multiple local endpoints using Syncthing<br>
   - 💾 Creating an image and restoring backups using Paragon Hard Disk Manager<br>
 
-<b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
-
 ###
 
 <br clear="both">
