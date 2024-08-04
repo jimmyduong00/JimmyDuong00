@@ -1,5 +1,5 @@
 <p align="left">Hi, I'm Jimmy<br>
-  <br>I'm a ☁️ Cloud and 🔒 Cyber Security Engineer.<br>
+  <br>I'm a ☁️ Cloud and 🔒 Cybersecurity Engineer.<br>
   <br>I love creating infrastructure solutions according to best practices and making cyberspace a more safe and secure experience.<br>  
   <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge I have learned so feel free to check out my website https://ottertech.cloud/<br>
   
@@ -21,9 +21,10 @@
   
   🛠️ General Projects<br>
   - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
-  - 💿 Creating a RAID enabled server to store and sync multiple local endpoints using Syncthing</p>
+  - 💿 Creating a RAID enabled server to store and sync multiple local endpoints using Syncthing<br>
   - 💾 Creating an image and restoring backups using Paragon Hard Disk Manager<br>
-  
+
+<b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
 
 ###
 
