@@ -6,18 +6,18 @@
 Here are some projects I have or plan to work on (will have link when completed):<br>
   <p1> ⛅ Cloud Projects<br> </p1>
   
-    Azure:
+  Azure:
   - <b>[⌛ Configuring Privliged Identity Management (PIM) access for critical infrastructure](https://ottertech.cloud/2-Azure-Services/Privileged-Identity-Management-(PIM))</b>
   - <b>[🌎 Hosting a website using Azure Static Web App and Quartz](https://ottertech.cloud/1-Projects/Creating-a-Static-Website-using-Azure)</b>
   - <b>[🎯 Geolocating threat actor locations using GeoIP API and Azure Sentinel](https://github.com/JimmyDuong00/Sentinel-Threat-Map)</b>
   - 💻 Endpoint imaging and management using Azure Intune and Autopilot<br>
   - 📃 Connecting On-Prem Active Directory to Azure for hybrid organizations using Entra Connect<br>
   - 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>
-
-    AWS:
-  - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
-  - 🔨 Using Terraform to scale load balanced elastic web-facing applications<br>
   
+  AWS:
+    - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
+    - 🔨 Using Terraform to scale load balanced elastic web-facing applications<br>
+    
   🔒 Cybersecurity Projects<br>
   - 🔎 Detection, investigation, and response using Splunk <br>
   - 🎥 Using Shodan to find and map unsecured CCTV cameras<br>
