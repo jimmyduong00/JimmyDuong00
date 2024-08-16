@@ -16,7 +16,7 @@ Here are some projects I have or plan to work on (will have link when completed)
   - 🩹 Remediating vulnerabilities in Microsoft Defender for Cloud<br>
   
   AWS:
-  - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring](https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda)</b>
+  - <b>[📸 Auto-triggering AWS Lambda bucket for image blurring]([https://ottertech.cloud/1-Projects/Transforming-images-using-S3-Events-and-Lambda](https://ottertech.cloud/02-Projects/02.03-Transforming-images-using-S3-Events-and-Lambda))</b>
   - 🔨 Using Terraform to scale load-balanced elastic web-facing applications<br>
     
   🔒 Cybersecurity Projects<br>
