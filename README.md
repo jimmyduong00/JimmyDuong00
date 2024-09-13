@@ -3,9 +3,11 @@
   <br>I love creating infrastructure solutions according to best practices and making cyberspace a more safe and secure experience.<br>  
   <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge I have learned so feel free to check out my website https://ottertech.cloud/<br>
   
-Here are some projects I have or plan to work on (will have link when completed):<br>
+Here are some projects I have or plan to work:<br>
 
   <p1> ⛅ Cloud Projects<br> </p1>
+  Project OtterVanguard
+  A multi cloud organization that focuses on simulating wildland fires and oceanic oil spills.
   
   Azure:
   - <b>[⌛ Configuring Privliged Identity Management (PIM) access for critical infrastructure](https://ottertech.cloud/2-Azure-Services/Privileged-Identity-Management-(PIM))</b>
@@ -22,7 +24,7 @@ Here are some projects I have or plan to work on (will have link when completed)
   🔒 Cybersecurity Projects<br>
   - 🔎 Detection, investigation, and response using Splunk <br>
   - 🏹 Vulnerability management and remediation using OSSIM AlienVault, GreenBone OpenVAS and Nmap<br>
-  - 🎥 Using Shodan to find and map unsecured CCTV cameras using Bash scripts<br>
+  - 🎥 Using Shodan to find and map unsecured CCTV cameras<br>
   - 🕷  Web scraping for OSINT data on X (Twitter) and Mastodon<br>
   
   🛠️ Infrastructure Projects<br>
