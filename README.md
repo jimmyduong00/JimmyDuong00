@@ -1,7 +1,7 @@
 <p align="left">Hi, I'm Jimmy<br>
   <br>I'm a ☁️ Cloud and 🔒 Cybersecurity Engineer.<br>
   <br>I love creating infrastructure solutions according to best practices and making cyberspace a more safe and secure experience.<br>  
-  <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge I have learned so feel free to check out my website https://ottertech.cloud/<br>
+  <br>From architecting and configuring secure environments to incident response and recovery. I have played a dominant role in securing enterprise environments and protecting organizations across various sectors, including renewable energy and education.<br><br>I love sharing the knowledge so feel free to check out my website https://ottertech.cloud/<br>
   
 Here are some projects I have or plan to work:<br>
 
