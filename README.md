@@ -34,7 +34,7 @@ Here are some projects I have or plan to work:<br>
 
 ###
 
-<p align="center">Feel free to reach out to me and see you in the Cloud! 🦦🌊<br><br>For more information about my projects, please take a look at my website! (Medium Icon)</p>
+<p align="center">Feel free to reach out to me and see you in the Cloud! 🦦🌊<br><br>For more information about my projects, please take a look at my website! https://ottertech.cloud/
 
 ###
 
